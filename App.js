@@ -80,5 +80,5 @@ export default class App extends Component {
 const styles = StyleSheet.create({
   container: { flex: 1, padding: 16, paddingTop: 35, backgroundColor: '#FAF0E4' },
   head: { height: 40, backgroundColor: '#E7B10A' },
-  text: { margin: 6, textAlign: 'center', fontFamily: 'Tahoma', fontSize: 15}
+  text: { margin: 6, textAlign: 'center', fontFamily: 'Tahoma', fontSize: 16}
 });
